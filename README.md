@@ -24,9 +24,9 @@ El programa ajusta automáticamente el rango de búsqueda hasta encontrar la res
 - Solicitar al usuario que piense un número entre 1 y 100.
 - Realizar intentos automáticos para adivinar el número.
 - Solicitar la respuesta del usuario mediante las opciones:
-  - mayor
-  - menor
-  - correcto
+  mayor
+  menor
+  correcto
 - Validar que la respuesta ingresada sea correcta.
 - Ajustar el rango de búsqueda según la respuesta del usuario.
 - Contabilizar la cantidad de intentos realizados.
